@@ -1,0 +1,27 @@
+---
+# 编号（必填）
+number : "1872**"
+
+# 高德 API Key
+amap_key : "38731f296471c055b5ac30f079df1473"
+
+# Cookie 这个很少变化（必填）
+Cookie : ""
+
+# X_CSRF_Token（必填）
+X_CSRF_Token : ""
+
+# 定位省份
+Province_GPS : "江西省"
+
+# 定位城市
+City_GPS : "南昌市"
+
+# 定位区、县
+District_GPS : "新建区"
+
+# 定位详细地址
+Detail_GPS : "新建区书香一路"
+
+# 个人健康信息
+health : "正常"
