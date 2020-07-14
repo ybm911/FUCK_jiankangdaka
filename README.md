@@ -1,6 +1,6 @@
 # FUCK_jiankangdaka
 auto punch a card for 简道云
-----
+
 使用前安装 PyYaml 库
 
 ` python3 -m pip install PyYaml`
@@ -55,8 +55,8 @@ INFO:root: ** Wait five seconds **
  push data {"code":4002,"msg":"提交值重复","meta":{"repeatFields":{"_widget_1581559576367":"18***********4"}}}
 ```
 
-```python
-╰─$ python3 auto_punch_a_card.py -i
+```shell
+～$ python3 auto_punch_a_card.py -i
 INFO:root: ** Get ready **
 INFO:root: ** 位置通过 IP 获取开始 **
  当前 IP ：52.229.174.79
