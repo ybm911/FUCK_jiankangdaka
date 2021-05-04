@@ -1,6 +1,6 @@
 # FUCK_jiankangdaka
 auto punch a card for 简道云
-[文档说明](http://ybm911.work/2020/07/12/%E8%87%AA%E5%8A%A8%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1%EF%BD%9CFUCK-jiankangdaka/)
+[文档说明](http://spacey.top/2020/07/12/%E8%87%AA%E5%8A%A8%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1%EF%BD%9CFUCK-jiankangdaka/)
 
 使用前安装 PyYaml 库
 
